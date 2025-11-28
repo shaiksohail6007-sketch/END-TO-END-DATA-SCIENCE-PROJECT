@@ -147,3 +147,6 @@ The ability to deploy a model is a crucial skill because real-world ML is only u
 
 #OUTPUT
 
+<img width="960" height="1020" alt="Image" src="https://github.com/user-attachments/assets/12c75dc2-2a8d-40be-9fae-957cea5b6ae7" />
+
+<img width="957" height="1032" alt="Image" src="https://github.com/user-attachments/assets/5cd32a35-a436-4100-91f7-a03fb3bc2351" />
